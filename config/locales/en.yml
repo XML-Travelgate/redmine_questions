@@ -1,7 +1,7 @@
 # English strings go here for Rails i18n
 en:
-  label_questions: 'Help & Support'
-  label_questions_search: 'Search for a specific question, answer or topic ...'
+  label_questions: 'Noticias & Enlaces'
+  label_questions_search: 'Buscar por titulo, enlace...'
   label_questions_new: New question
   label_questions_message: Message
   label_questions_added_time: "Added %{value} ago"
@@ -13,7 +13,7 @@ en:
   label_questions_tags: Tags
   label_questions_tagged_by: '%{count} topic(s) tagged by %{tag}'
   label_questions_notice_message: Notice message
-  label_questions_notice: Notice
+  label_questions_notice: Guía de Publicación
   label_questions_most_voted: Most voted
 
   button_questions_vote: Vote
